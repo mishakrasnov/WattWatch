@@ -6,6 +6,8 @@ A Docker-based IoT data pipeline that:
 - Performs prediction and stores true and predicted data in PostgreSQL
 - Visualizes data in Grafana with outliers indication 
 
+demonstration_mqtt.ipynb notebbok deomstrates training of prophet and how to send data via mqqt. 
+
 ---
 
 ## Architecture
